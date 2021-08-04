@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User CRUD Assig3</string>
+    <string name="title">Please enter the details below: </string>
+    <string name="hint_n">Enter name here</string>
+    <string name="hint_c">Enter contact here</string>
+    <string name="hint_dob">Enter date of birth here</string>
+    <string name="btn_insert">INSERT NEW DATA</string>
+    <string name="btn_update">UPDATE DATA</string>
+    <string name="btn_delete">DELETE EXISTING DATA</string>
+    <string name="btn_view">VIEW DATA</string>
+    <string name="user_detail_title">User details</string>
+</resources>
